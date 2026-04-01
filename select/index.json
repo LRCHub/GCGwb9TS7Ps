@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "これだから最近の若者は最高なんだ",
+  "base_artist": "Wasureranneyo",
+  "createdAt": "2026-04-01T02:14:53.056300Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "これだから最近の若者は最高なんだ",
+      "artist": "忘れらんねえよ",
+      "has_synced": false,
+      "path": "select/pl_01_これだから最近の若者は最高なんだ_忘れらんねえよ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "これだから最近の若者は最高なんだ",
+      "artist": "忘れらんねえよ",
+      "has_synced": false,
+      "path": "select/pl_02_これだから最近の若者は最高なんだ_忘れらんねえよ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "これだから最近の若者は最高なんだ",
+      "artist": "忘れらんねえよ",
+      "has_synced": false,
+      "path": "select/pl_03_これだから最近の若者は最高なんだ_忘れらんねえよ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "これだから最近の若者は最高なんだ",
+      "artist": "忘れらんねえよ",
+      "has_synced": false,
+      "path": "select/pl_04_これだから最近の若者は最高なんだ_忘れらんねえよ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "これだから最近の若者は最高なんだ",
+      "artist": "忘れらんねえよ",
+      "has_synced": false,
+      "path": "select/pl_05_これだから最近の若者は最高なんだ_忘れらんねえよ.txt"
+    }
+  ]
+}
